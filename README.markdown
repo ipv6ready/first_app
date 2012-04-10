@@ -2,3 +2,5 @@
 
 This is the first application for [*Ruby on Rails Tutorial: Learn Rails by
 Example*](http://railstutorial.org/)
+
+Updated on 4/9/2011
